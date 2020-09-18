@@ -1,5 +1,5 @@
 /*
-Author: Sanjay Shiradrwade
+Author: Sanjay Shiradwade
 */
 const hotelSize = 200000000;
 let ttCust = 1;
